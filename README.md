@@ -1,4 +1,4 @@
 # Aula teste
-Exercitando um projeto e enviando para o netfily
+Exercitando um projeto e enviando para o netlify
 ## subir site
 
