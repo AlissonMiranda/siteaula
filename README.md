@@ -10,4 +10,4 @@ Implantar automático
 '' 'bash git commit -m "comentario"
 ## acesse aqui
 
-[blog]
+[blog](https://siteonline.netlify.com)
